@@ -1,0 +1,34 @@
+@import url(pginicial.html);
+:root{
+    --cor-de-fundo:rgb(255, 255, 255);
+  --cor-cab: rgb(240, 80, 80);
+} 
+body{
+    background-color: var(--cor-de-fundo);
+    color: rgb(0, 0, 0);
+}
+.topo{
+  width: auto;
+  height: 200px;
+  background-color: brown;
+}
+
+.rodape{
+  width: auto;
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+}
+
+.direita{
+  width: 50%;
+  height: 200px;
+  background-color: firebrick;
+}
+
+.esquerda{
+  width: 50%;
+  height: 200px;
+  background-color: maroon;
+}
+.odio{height: 100px;
+}
